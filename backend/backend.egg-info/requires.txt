@@ -1,0 +1,4 @@
+pyramid
+sqlalchemy
+pyramid_jwt
+pyramid_chameleon
