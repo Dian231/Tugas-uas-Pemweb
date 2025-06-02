@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: backend
-Version: 0.0.0
-Requires-Dist: pyramid
-Requires-Dist: sqlalchemy
-Requires-Dist: pyramid_jwt
-Requires-Dist: pyramid_chameleon
-Dynamic: requires-dist
