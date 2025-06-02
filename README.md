@@ -11,14 +11,35 @@ Dengan adanya fitur perbandingan dan penyajian data real-time yang akurat, websi
 
 ## Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi
 
-|backend|
-|pyramid==2.0|
-|waitress==2.0.0|
-|SQLAlchemy==1.4.0|
-|psycopg2-binary==2.9.3|       
-|pyramid_jwt==2.0.0|
-|transaction==3.0.0|
-|zope.sqlalchemy==1.5|
-|pytest==7.0.1|                
+## backend
 
+pyramid==2.0
+waitress==2.0.0
+SQLAlchemy==1.4.0
+psycopg2-binary==2.9.3       
+pyramid_jwt==2.0.0
+transaction==3.0.0
+zope.sqlalchemy==1.5
+pytest==7.0.1                
 
+## fronrend
+
+"dependencies": {
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"axios": "^1.3.4",
+"react-router-dom": "^6.8.0",
+"jwt-decode": "^3.1.2"
+},
+"devDependencies": {
+"@testing-library/react": "^13.4.0"
+}
+
+## FItur pada aplikasi
+
+- Menambahkan Data Baru
+- mengedit data lama
+- menghapus data lama
+
+## referensi
+https://www.fifa.com/id/world-rankings     
